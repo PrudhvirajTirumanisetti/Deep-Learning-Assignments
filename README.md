@@ -18,6 +18,4 @@ d.One of the data collectors forgot to convert the sepal length for “Iris-vers
 
                                        Number of data points predicted correctly
                         accuracy = _________________________________________________
-h
-
                                            Total number of data points
